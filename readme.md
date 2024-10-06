@@ -16,15 +16,12 @@ Python Virtual Environments are used to have isolated interpreters. This helps t
 To setup a virtual environment in the project's directory:
 ```
 # install venv package
-
 $ sudo apt install python3.10-venv
 
 # create the virtual environment
-
 $ python3 -m venv <name of the vEnvironment>
 
 # activate the virtual environment
-
 $ source venv/bin/activate
 ```
 Install flask on virtual environment.
